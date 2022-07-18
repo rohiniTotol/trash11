@@ -33,7 +33,7 @@ total_task = 50
 enable_time_limit=True
 
 start_ts = time.time()
-tt = random.uniform(3, 5)
+tt = random.uniform(2, 3)
 end_ts = start_ts + int(tt*60)
 
 
